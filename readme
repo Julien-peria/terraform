@@ -1,0 +1,10 @@
+exécuter les commande suivant pour que le projet se lance :
+
+cd .\app\  
+terraform.exe init 
+terraform.exe apply
+
+ouvrer le fichier IP_ec2.txt pour voir IP
+
+pour tout supprimer
+terraform destroy  
