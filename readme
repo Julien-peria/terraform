@@ -7,5 +7,5 @@ terraform.exe apply
 
 ouvrer le fichier IP_ec2.txt pour voir url, entrez la dans un navigateur (voir image)
 
-pour tout supprimer
+pour tout supprimer entrze la commande :
 terraform destroy  
