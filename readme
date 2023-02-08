@@ -1,4 +1,5 @@
-exécuter les commande suivant pour que le projet se lance :
+installer terraform au préalable
+exécuter les commandes suivant pour que le projet se lance :
 
 cd .\app\  
 terraform.exe init 
